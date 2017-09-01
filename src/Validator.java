@@ -1,3 +1,4 @@
+package src;
 public class Validator {
 
 	static void validateInputFormat(String userInput) {
